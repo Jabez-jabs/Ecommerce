@@ -1,4 +1,4 @@
-const BASE = 'http://localhost:8000 || ';
+const BASE = 'http://localhost:8000' || 'https://ecommerce-ecru-phi.vercel.app';
 
 function getToken() {
   return localStorage.getItem('token');
