@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "source": "UCI Online Retail Dataset",
+    "total_rows": 530104,
+    "date_range": "2010-12 to 2011-12"
+  },
+  "kpis": {
+    "total_revenue": 10666684.54,
+    "total_orders": 19960,
+    "total_customers": 4338,
+    "total_products": 3922,
+    "avg_order_value": 534.4,
+    "churn_rate_pct": 19.8,
+    "loyal_customers": 2010
+  },
+  "monthly_revenue": [
+    {
+      "month": "2010-12",
+      "revenue": 823746.14,
+      "orders": 1559,
+      "customers": 886
+    },
+    {
+      "month": "2011-01",
+      "revenue": 691364.56,
+      "orders": 1086,
+      "customers": 742
+    },
+    {
+      "month": "2011-02",
+      "revenue": 523631.89,
+      "orders": 1100,
+      "customers": 759
+    },
+    {
+      "month": "2011-03",
+      "revenue": 717639.36,
+      "orders": 1454,
+      "customers": 975
+    },
+    {
+      "month": "2011-04",
+      "revenue": 537808.62,
+      "orders": 1246,
+      "customers": 857
+    },
+    {
+      "month": "2011-05",
+      "revenue": 770536.02,
+      "orders": 1681,
+      "customers": 1057
+    },
+    {
+      "month": "2011-06",
+      "revenue": 761739.9,
+      "orders": 1533,
+      "customers": 992
+    },
+    {
+      "month": "2011-07",
+      "revenue": 719221.19,
+      "orders": 1475,
+      "customers": 950
+    },
+    {
+      "month": "2011-08",
+      "revenue": 759138.38,
+      "orders": 1361,
+      "customers": 936
+    },
+    {
+      "month": "2011-09",
+      "revenue": 1058590.17,
+      "orders": 1837,
+      "customers": 1267
+    },
+    {
+      "month": "2011-10",
+      "revenue": 1154979.3,
+      "orders": 2040,
+      "customers": 1365
+    },
+    {
+      "month": "2011-11",
+      "revenue": 1509496.33,
+      "orders": 2769,
+      "customers": 1665
+    },
+    {
+      "month": "2011-12",
+      "revenue": 638792.68,
+      "orders": 819,
+      "customers": 616
+    }
+  ],
+  "top_products": [
+    {
+      "name": "DOTCOM POSTAGE",
+      "qty": 706,
+      "revenue": 206248.77,
+      "orders": 706
+    },
+    {
+      "name": "REGENCY CAKESTAND 3 TIER",
+      "qty": 13879,
+      "revenue": 174484.74,
+      "orders": 1988
+    },
+    {
+      "name": "PAPER CRAFT , LITTLE BIRDIE",
+      "qty": 80995,
+      "revenue": 168469.6,
+      "orders": 1
+    },
+    {
+      "name": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "qty": 37891,
+      "revenue": 106292.77,
+      "orders": 2256
+    },
+    {
+      "name": "PARTY BUNTING",
+      "qty": 18295,
+      "revenue": 99504.33,
+      "orders": 1685
+    },
+    {
+      "name": "JUMBO BAG RED RETROSPOT",
+      "qty": 48474,
+      "revenue": 94340.05,
+      "orders": 2089
+    },
+    {
+      "name": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "qty": 78033,
+      "revenue": 81700.92,
+      "orders": 247
+    },
+    {
+      "name": "Manual",
+      "qty": 7225,
+      "revenue": 78112.82,
+      "orders": 290
+    },
+    {
+      "name": "POSTAGE",
+      "qty": 3150,
+      "revenue": 78101.88,
+      "orders": 1126
+    },
+    {
+      "name": "RABBIT NIGHT LIGHT",
+      "qty": 30788,
+      "revenue": 66964.99,
+      "orders": 994
+    },
+    {
+      "name": "PAPER CHAIN KIT 50'S CHRISTMAS",
+      "qty": 19355,
+      "revenue": 64952.29,
+      "orders": 1160
+    },
+    {
+      "name": "ASSORTED COLOUR BIRD ORNAMENT",
+      "qty": 36461,
+      "revenue": 59094.93,
+      "orders": 1455
+    },
+    {
+      "name": "CHILLI LIGHTS",
+      "qty": 10306,
+      "revenue": 54117.76,
+      "orders": 661
+    },
+    {
+      "name": "SPOTTY BUNTING",
+      "qty": 8327,
+      "revenue": 42548.13,
+      "orders": 1140
+    },
+    {
+      "name": "JUMBO BAG PINK POLKADOT",
+      "qty": 21465,
+      "revenue": 42436.24,
+      "orders": 1218
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United Kingdom",
+      "revenue": 9025222.08
+    },
+    {
+      "country": "Netherlands",
+      "revenue": 285446.34
+    },
+    {
+      "country": "EIRE",
+      "revenue": 283453.96
+    },
+    {
+      "country": "Germany",
+      "revenue": 228867.14
+    },
+    {
+      "country": "France",
+      "revenue": 209715.11
+    },
+    {
+      "country": "Australia",
+      "revenue": 138521.31
+    },
+    {
+      "country": "Spain",
+      "revenue": 61577.11
+    },
+    {
+      "country": "Switzerland",
+      "revenue": 57089.9
+    },
+    {
+      "country": "Belgium",
+      "revenue": 41196.34
+    },
+    {
+      "country": "Sweden",
+      "revenue": 38378.33
+    }
+  ],
+  "customer_segments": [
+    {
+      "segment": "At Risk",
+      "count": 858
+    },
+    {
+      "segment": "Loyal",
+      "count": 923
+    },
+    {
+      "segment": "Champions",
+      "count": 802
+    },
+    {
+      "segment": "Occasional",
+      "count": 1273
+    },
+    {
+      "segment": "Recent",
+      "count": 482
+    }
+  ],
+  "quantity_distribution": [
+    {
+      "band": "1-5",
+      "count": 316718
+    },
+    {
+      "band": "6-20",
+      "count": 156577
+    },
+    {
+      "band": "21-100",
+      "count": 51960
+    },
+    {
+      "band": "100+",
+      "count": 4849
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "home-decor",
+    "name": "Home Decor",
+    "slug": "home-decor",
+    "count": 88
+  },
+  {
+    "id": "kitchen-dining",
+    "name": "Kitchen & Dining",
+    "slug": "kitchen-dining",
+    "count": 88
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "slug": "general",
+    "count": 44
+  },
+  {
+    "id": "bags-accessories",
+    "name": "Bags & Accessories",
+    "slug": "bags-accessories",
+    "count": 31
+  },
+  {
+    "id": "gift-novelty",
+    "name": "Gift & Novelty",
+    "slug": "gift-novelty",
+    "count": 25
+  },
+  {
+    "id": "garden-outdoor",
+    "name": "Garden & Outdoor",
+    "slug": "garden-outdoor",
+    "count": 20
+  },
+  {
+    "id": "storage-organisation",
+    "name": "Storage & Organisation",
+    "slug": "storage-organisation",
+    "count": 19
+  },
+  {
+    "id": "christmas-seasonal",
+    "name": "Christmas & Seasonal",
+    "slug": "christmas-seasonal",
+    "count": 15
+  },
+  {
+    "id": "toys-games",
+    "name": "Toys & Games",
+    "slug": "toys-games",
+    "count": 12
+  },
+  {
+    "id": "stationery",
+    "name": "Stationery",
+    "slug": "stationery",
+    "count": 5
+  },
+  {
+    "id": "clothing-accessories",
+    "name": "Clothing & Accessories",
+    "slug": "clothing-accessories",
+    "count": 1
+  }
+]
